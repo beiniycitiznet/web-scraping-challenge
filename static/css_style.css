@@ -1,0 +1,19 @@
+/* Mars Hemispheres */
+.aside-images {
+    margin:20px;
+    max-width: 90%;
+}  
+
+
+/* Mars Featured Image, Mars Weather, Mars Facts */
+#featured_image, #weather, #facts {
+    display:"inline-block" !important;
+    margin: 0px;
+}
+
+
+/* Body */
+body {
+    background-color: rgba(201, 144, 38, 0.589) !important;;
+}
+
